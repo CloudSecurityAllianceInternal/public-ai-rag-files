@@ -1,0 +1,31 @@
+Security-Guidance-v4.0-9-20-21-DevSecOps-Content
+
+10.1.7 The Rise and Role of DevOps
+DevOps refers to the deeper integration of development and operations teams through better
+collaboration and communications, with a heavy focus on automating application deployment and
+infrastructure operations. There are multiple definitions, but the overall idea consists of a culture,
+philosophy, processes, and tools.
+At the core is the combination of Continuous Integration and/or Continuous Delivery (CI/CD) through
+automated deployment pipelines, and the use of programmatic automation tools to better manage
+infrastructure. DevOps is not exclusive to cloud, but as discussed it is highly attuned to cloud and is
+growing to become the dominant cloud application delivery model.
+Security Guidance v4.0 © Copyright 2021, Cloud Security Alliance. All rights reserved 118
+10.1.7.1 Security Implications and Advantages
+• Standardization: With DevOps, anything that goes into production is created by the CI/CD
+pipeline on approved code and configuration templates. Dev/Test/Prod are all based on the
+exact same source files, which eliminates any deviation from known-good standards.
+• Automated testing: As discussed, a wide variety of security testing can be integrated into the CI/
+CD pipeline, with manual testing added as needed to supplement.
+• Immutable: CI/CD pipelines can produce master images for virtual machines, containers, and
+infrastructure stacks very quickly and reliably. This enables automated deployments and
+immutable infrastructure.
+• Improved auditing and change management: CI/CD pipelines can track everything, down to
+individual character changes in source files that are tied to the person submitting the change,
+with the entire history of the application stack (including infrastructure) stored in a version
+control repository. This offers considerable audit and change-tracking benefits.
+• SecDevOps/DevSecOps and Rugged DevOps: These two terms are emerging to describe the
+integration of security activities into DevOps. SecDevOps/DevSecOps sometimes refers to the
+use of DevOps automation techniques to improve security operations. Rugged DevOps refers
+to integration of security testing into the application development process to produce harder,
+more secure, and more resilient applications.
+

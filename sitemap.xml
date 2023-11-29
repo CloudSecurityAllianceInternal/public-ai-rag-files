@@ -1,0 +1,372 @@
+<?xml version="1.0" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.yourwebsite.com/0-commit-to-git.sh</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CNAME</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/generate-indexes.py</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/make-sitemap-xml.py</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/README.md</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/sitemap.xml</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/config</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/description</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/HEAD</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/index</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/packed-refs</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/branches/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/applypatch-msg.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/commit-msg.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/fsmonitor-watchman.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/post-update.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/pre-applypatch.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/pre-commit.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/pre-merge-commit.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/pre-push.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/pre-rebase.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/pre-receive.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/prepare-commit-msg.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/push-to-checkout.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/hooks/update.sample</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/info/exclude</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/info/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/HEAD</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/refs/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/refs/heads/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/refs/heads/main</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/refs/remotes/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/refs/remotes/origin/HEAD</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/logs/refs/remotes/origin/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/objects/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/objects/info/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/objects/pack/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/objects/pack/pack-69c000d07444acfb4ce584b6d914e9d781adaa96.idx</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/objects/pack/pack-69c000d07444acfb4ce584b6d914e9d781adaa96.pack</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/refs/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/refs/heads/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/refs/heads/main</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/refs/remotes/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/refs/remotes/origin/HEAD</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/refs/remotes/origin/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/.git/refs/tags/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/CCMv4.0.10_Generated-at_2023-09-26.xlsx</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/Security-Guidance-v4.0-9-20-21.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/sitemap.xml</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/AI/ChatGPT Security Implications.pptx.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/AI/Cloud-Based-Intelligent-Ecosystems.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/AI/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/AI/Security Implications of ChatGPT-Full Release-Sponsor Logo-080723.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ArchitectureSharedResponsibilityRiskmanagement/CSA-Risk Management-Update.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ArchitectureSharedResponsibilityRiskmanagement/Enterprise Architecture-CCM Shared Responsibility Model.xlsx</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ArchitectureSharedResponsibilityRiskmanagement/Enterprise-Architecture-Reference-Guide.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ArchitectureSharedResponsibilityRiskmanagement/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ArchitectureSharedResponsibilityRiskmanagement/TCI-EA-Reference-Diagram.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/DevSecOps/DevSecOps-Pillar1.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/DevSecOps/DevSecOps-Pillar3.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/DevSecOps/DevSecOps-Pillar4.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/DevSecOps/DevSecOps-Pillar6.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/DevSecOps/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/DevSecOps/Security-Guidance-v4.0-9-20-21-DevSecOps-Content.txt</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/HybridCloud/Hybrid-Cloud-and-its-Associated-Risks.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/HybridCloud/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/HybridCloud/Mitigating-Hybrid-Cloud-Risk.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/Defining Shadow Access- The Emerging IAM Security Challenge.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/IAM Glossary 082923.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/Machine Identity in Cybersecurity and IAM Slide Deck.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/Machine Identity in Cybersecurity and IAM.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/Shadow Access Research Deck (2).pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/What is IAM For the Cloud Research Deck (1).pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IAM/What is IAM for the Cloud-091223.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IncidentResponse/Cloud Incident Response Framework 4_30_21.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IncidentResponse/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IoT/GuidetotheCSAIoTControlsMatrixv3.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/IoT/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/KeyManagement/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/KeyManagement/Key-Management-in-Cloud-Services-Final.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/KeyManagement/RecommendationsforUsingaCustomerControlledKeyStore.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/Quantum/Confidence-in-Post-Quantum-Algorithms.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/Quantum/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/Quantum/PQC_Exec_Deck_0.80Draft.pptx</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/Quantum/Practical Preparations for the Post-Quantum World.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ServerlessFaaSAPIs/2023Serverless Release Presentation.pptx.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ServerlessFaaSAPIs/Best-Practices-in-Implementing-a-Secure-Microservices-Architecture.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ServerlessFaaSAPIs/FaaS Serverless Control Framework (Set) Based on NIST 800-53 R5 Controls 082923.xlsx</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ServerlessFaaSAPIs/How to Design a Secure Serverless Architecture_20231020.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ServerlessFaaSAPIs/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ServerlessFaaSAPIs/Security-Guidelines-for-Providing-and-Consuming-APIs-v1.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ThreatModellingAttacks/Cloud Adversarial Vectors, Exploits, and Threats (CAVEaT™) Release Presentation (1).pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ThreatModellingAttacks/Cloud Adversarial Vectors, Exploits, and Threats-20231114.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ThreatModellingAttacks/Cloud-Threat-Modeling.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ThreatModellingAttacks/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ThreatModellingAttacks/Understanding Cloud Attack Vectors 060723.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ThreatModellingAttacks/Understanding Cloud Attack Vectors Research Release.pptx (1).pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ZeroTrust/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ZeroTrust/Zero Trust as a Security Philosophy 022823.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ZeroTrust/Zero Trust Guiding Principles 072123.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ZeroTrust/Zero Trust Guiding Principles IAM Research Deck.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ZeroTrust/Zero Trust Guiding Principles.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/CCSKv5/ZeroTrust/Zero Trust Principles and Guidance for IAM 071223.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/A Day without Safe Cryptography.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/Applied Quantum-Safe Security.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/Blockchains in the Quantum Era.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/Confidence in PostQuantum Algorithms.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/index.html</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/Mitigating the Quantum Threat with Hybrid Cryptography.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/Practical Preparations for the Post-Quantum World.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/Preparing Enterprises for the Quantum Computing Cybersecurity Threats.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/QUANTUM RANDOM NUMBER GENERATORS.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/Quantum-Safe Security Working Group Glossary.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/The State of PostQuantum Cryptography.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/What is Post-Quantum Cryptography.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/What is Quantum Key Distribution.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.yourwebsite.com/Quantum/What is Quantum Safe Security.pdf</loc>
+  </url>
+</urlset>
